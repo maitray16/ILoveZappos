@@ -11,3 +11,6 @@ Challenge to build an app that takes input from the user as a search query and r
 * Using Retrofit to handle REST requests.
 * Implementing a design pattern
 * Implementing the magical "Share" functionality.
+
+
+###Check out the Design Doc - [Design Doc](https://github.com/maitray16/ILoveZappos/blob/master/Design/design.md)
