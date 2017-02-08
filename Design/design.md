@@ -25,5 +25,9 @@
 - "Sharing" functionality is provided, so that the users can share different products and get an opinion which is very important.
 - The cost of the product is highlighted to provide the user with a better visibility.
 
+![alt text](https://github.com/maitray16/ILoveZappos/blob/master/Design/Resources/product.png?raw=true "Product Screen")
+
+![alt text](https://github.com/maitray16/ILoveZappos/blob/master/Design/Resources/addtocart.png?raw=true "Add to cart")
+
 
 
