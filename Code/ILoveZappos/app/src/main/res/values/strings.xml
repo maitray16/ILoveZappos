@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="ilove">I LOVE</string>
+    <string name="zappos">ZAPPOS</string>
+    <string name="explore">EXPORE</string>
+    <string name="built">BUILT WITH</string>
+    <string name="maitray">BY MAITRAY</string>
+</resources>
