@@ -9,5 +9,5 @@ Challenge to build an app that takes input from the user as a search query and r
 * Following Material Design Guidelines. 
 * Handling configuration changes.
 * Using Retrofit to handle REST requests.
-* Following a design pattern
+* Implementing a design pattern
 * Implementing the magical "Share" functionality.
