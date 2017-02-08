@@ -19,7 +19,7 @@
 
 ##Product Page - With search results
 - The below screen is shown to the user when they search for a product.
-- In the Zappos API, the productName is sometimes returned with special charachters and numbers - which is offputting for the user. So while displaying the productName, I remove irrelevant charachters.
+- In the Zappos API, the productName is sometimes returned with special characters and numbers - which is offputting for the user. So while displaying the productName, I remove irrelevant charachters.
 - "Add to Cart"  animation on Floating Action Button is very important as it gives the user a sense of accomplishment, so I have made the animation smooth and subtle.
 - Also the animation provides with a nice feedback for an action by the user.
 - "Sharing" functionality is provided, so that the users can share different products and get an opinion which is very important.
