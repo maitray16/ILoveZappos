@@ -9,6 +9,10 @@
 
 ## Optimizations performed
 
+### Reducing the apk size
+
+By optimising resources and writing the pro-guard rules for the libraries that is Retrofit, I was able to reduce the apk size as it removes the portion of the code that is never used. People are always running out of memory space, so I feel the lesser the apk size the better it is.
+
 ###Reducing Overdraw
 Hey, no one likes glitchy apps.<br>
 The app was built in such a way so that it has minimal overdraw, so the app would run smoothly even on lower end devices. 
@@ -18,8 +22,3 @@ The app was built in such a way so that it has minimal overdraw, so the app woul
 
 ####After - Blue and Green(Good)
 ![alt text](https://github.com/maitray16/ILoveZappos/blob/master/Design/Resources/after.png?raw=true)
-
-
-### Reducing the apk size
-
-By optimising resources and writing the pro-guard rules for the libraries that is Retrofit, I was able to reduce the apk size as it removes the portion of the code that is never used. People are always running out of memory space, so I feel the lesser the apk size the better it is.
