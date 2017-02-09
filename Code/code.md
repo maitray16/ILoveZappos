@@ -11,7 +11,7 @@
 
 ### Reducing the apk size
 
-By optimising resources and writing the pro-guard rules for the libraries that is Retrofit, I was able to reduce the apk size as it removes the portion of the code that is never used. People are always running out of memory space, so I feel the lesser the apk size the better it is.
+By optimising resources and writing the pro-guard rules for the libraries that is Retrofit, I was able to reduce the apk size as it removes the portion of the code that is never used. People are always running out of memory, so I feel the lesser the apk size the better it is. This helps in reducing the app size greatly to just 2.37 MB, this can be reduced further but for now I am using external fonts and other resources.
 
 ###Reducing Overdraw
 Hey, no one likes glitchy apps.<br>
