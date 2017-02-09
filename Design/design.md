@@ -4,6 +4,7 @@
 ##FirstScreen
 - The screen below represents the initial screen of the app. The overall idea was to create an app which was fast and easy to navigate as the end goal of an app is to make it really easy for the user to find and buy something. 
 - The initial screen represents the background as "Ripples" as in the ripples that are being created by Zappos.
+- I think the most important part of any design should be that it should complement the user in achieving a goal rather than having something which looks amazing but fails to help the user.
 
 ![alt text](https://github.com/maitray16/ILoveZappos/blob/master/Design/Resources/FirstScreen.png?raw=true "FirstScreen")
 
